@@ -1,70 +1,47 @@
-# PRUEBA TÉCNICA PROGRÁMATE ACADEMY (SuperHero API)
-
-Este proyecto ha sido creado con REACT.
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<h1>PRUEBA TÉCNICA PROGRÁMATE ACADEMY (SuperHero API)</h1>
+<hr><p>El objetivo de este proyecto es obtener datos de la SuperHero API y mostrarlos de forma interactiva en una interfaz de usuario desarrollada con React. Se utiliza Redux como una solución de gestión del estado para mantener los datos y facilitar la comunicación entre los diferentes componentes de la aplicación.</p>
+<p>Utilizando la API de superhero se construyo una aplicación que retorna la siguiente información:</p>
+<p>● Muestra el Dashboard con todos los 731 Superhéroes.</p>
+<p>● Permite buscar por nombre un Superhéroe filtrando entre los 731 disponibles.</p>
+<p>● Muestra una tabla en donde se permite organiza a los superhéroes de acuerdo a:</p>
+<p>○ Intelligence</p>
+<p>○ Strength</p>
+<p>○ Speed</p>
+<p>○ Durability</p>
+<p>○ Power</p>
+<p>○ Combat</p>
+<p>● Muestra una tabla en donde se permite organiza a los superhéroes de acuerdo a:</p>
+<p>○ Gender</p>
+<p>○ Race</p>
+<p>○ Height</p>
+<p>○ Weight</p>
+<p>○ Eye Color</p>
+<p>○ Hair Color</p><h2>General Information</h2>
+<hr><ul>
+<li>Node.js: Asegúrate de tener Node.js instalado en tu sistema. Puedes descargarlo desde https://nodejs.org.</li>
+</ul><h2>Technologies Used</h2>
+<hr><ul>
+<li>HTML</li>
+</ul><ul>
+<li>CSS</li>
+</ul><ul>
+<li>JavaScript</li>
+</ul><ul>
+<li>React</li>
+</ul><ul>
+<li>NodeJS</li>
+</ul><ul>
+<li>redux</li>
+</ul><ul>
+<li>Bootstrap</li>
+</ul><h5>Steps</h5><ul>
+<li>Clonar el repositorio  git clone https://github.com/mistoandres/prueba_tecnica_programate.git</li>
+</ul><ul>
+<li>Ejecuta el siguiente comando para instalar las dependencias: npm install</li>
+</ul><ul>
+<li>Ejecuta el siguiente comando para iniciar la aplicación:npm start</li>
+</ul><ul>
+<li>Abre tu navegador web y visita http://localhost:3000 para ver la aplicación en funcionamiento.</li>
+</ul><h2>Project Status</h2>
+<hr><p>Completado.</p><h2>Contact</h2>
+<hr><p><span style="margin-right: 30px;"></span><a href="https://www.linkedin.com/in/andr%C3%A9s-rodr%C3%ADguez-a8a219209/"><img target="_blank" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="width: 10%;"></a><span style="margin-right: 30px;"></span><a href="https://github.com/mistoandres/"><img target="_blank" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="width: 10%;"></a></p>
