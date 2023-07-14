@@ -1,6 +1,6 @@
 # PRUEBA TÉCNICA PROGRÁMATE ACADEMY (SuperHero API)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este proyecto ha sido creado con REACT.
 
 ## Available Scripts
 
